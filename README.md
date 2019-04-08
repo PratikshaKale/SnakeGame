@@ -1,2 +1,2 @@
 # SnakeGame
-https://pratikshakale.github.io/SnakeGame/web/index.html
+https://pratikshakale.github.io/SnakeGame/snakegame.html
